@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  sockets_2.cpp
+c:\users\sarah\source\repos\sockets_2\sockets_2\sockets_2.cpp(5): warning C4603: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\sarah\source\repos\sockets_2\sockets_2\sockets_2.cpp(5): note: Add macro to precompiled header instead of defining here
+  c:\users\sarah\source\repos\sockets_2\sockets_2\sockets_2.cpp(7): note: use of precompiled header
+c:\users\sarah\source\repos\sockets_2\sockets_2\sockets_2.cpp(49): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: see declaration of 'inet_addr'
+c:\users\sarah\source\repos\sockets_2\sockets_2\sockets_2.cpp(43): warning C4101: 'addr': unreferenced local variable
+  sockets_2.vcxproj -> C:\Users\sarah\source\repos\sockets_2\Debug\sockets_2.exe
